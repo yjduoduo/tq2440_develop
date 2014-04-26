@@ -1,0 +1,4 @@
+--cpu ARM920T ".\output\s3c2440.o" ".\output\mian.o" --strict --scatter ".\Output\JLINKDemo.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listings\JLINKDemo.map" -o ".\Output\JLINKDemo.axf"

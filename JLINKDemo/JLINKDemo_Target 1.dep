@@ -1,0 +1,4 @@
+Dependencies for Project 'JLINKDemo', Target 'Target 1': (DO NOT MODIFY !)
+F (.\S3C2440.s)(0x4EE9A4E3)(--cpu ARM920T -g --apcs=interwork -I d:\Keil\ARM\RV31\Inc -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\Samsung --list ".\Listings\S3C2440.lst" --xref -o ".\Output\S3C2440.o" --depend ".\Output\S3C2440.d")
+F (.\mian.c)(0x535B646F)(-c --cpu ARM920T -g -O0 --apcs=interwork -I d:\Keil\ARM\RV31\Inc -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\Samsung -o ".\Output\mian.o" --omf_browse ".\Output\mian.crf" --depend ".\Output\mian.d")
+I (d:\Keil\ARM\Inc\Samsung\s3c2440.h)(0x4F58377E)

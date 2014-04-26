@@ -1,0 +1,1 @@
+-c --cpu ARM920T -g -O0 --apcs=interwork -I d:\Keil\ARM\RV31\Inc -I d:\Keil\ARM\CMSIS\Include -I d:\Keil\ARM\Inc\Samsung -o ".\Output\mian.o" --omf_browse ".\Output\mian.crf" --depend ".\Output\mian.d" "mian.c"

@@ -1,0 +1,20 @@
+*** Creating Trace Output File '.\Output\JLINKDemo.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\output\s3c2440.o"'
+### List of Objects: adding '".\output\mian.o"'
+### ADS-LD Command completed:
+--cpu ARM920T ".\output\s3c2440.o" ".\output\mian.o" --strict --scatter ".\Output\JLINKDemo.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listings\JLINKDemo.map" -o ".\Output\JLINKDemo.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Output\JLINKDemo.axf'
+### ADS-LD Command File: '.\Output\JLINKDemo.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Output\JLINKDemo.lnp', Handle=0x0000041C
+### Writing '.lnp' file
+### ADS-LD Command file '.\Output\JLINKDemo.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
